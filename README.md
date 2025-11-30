@@ -1,4 +1,4 @@
-# FlappyVision: Human-Motion Controlled Game ( Mediapipe · Pygame)
+# FlappyVision: Human-Motion Controlled Game (Mediapipe · Pygame)
 
 A computer-vision powered Flappy Bird clone using Mediapipe + Python. Move your real body → control the in-game bird. A playful demo of real-time pose estimation, motion detection, and interactive CV systems.
 
